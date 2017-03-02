@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2C0A-F39D
+
+ Directory of C:\Users\RAMESH\Desktop\Project1
+
+03/02/2017  01:18 PM    <DIR>          .
+03/02/2017  01:18 PM    <DIR>          ..
+03/02/2017  01:18 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  122,715,734,016 bytes free
